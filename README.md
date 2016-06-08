@@ -1,6 +1,8 @@
 SweetAlert [![Build Status](https://travis-ci.org/t4t5/sweetalert.svg?branch=master)](https://travis-ci.org/t4t5/sweetalert)
 ==========
 
+Examples are at here: http://t4t5.github.io/sweetalert/
+
 An awesome replacement for JavaScript's alert.
 
 ![A success modal](https://raw.github.com/t4t5/sweetalert/master/sweetalert.gif)
